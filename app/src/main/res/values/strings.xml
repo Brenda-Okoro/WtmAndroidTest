@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WtmAndroidTest</string>
+    <string name="done">Done</string>
+    <string name="name">What is your Name</string>
+    <string name="email">Email</string>
+    <string name="hello_world">Hello World</string>
+</resources>
